@@ -1,0 +1,152 @@
+/* corpo da pagina */
+body{
+    width: 50%;
+   background: #7286D3 url("0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png") no-repeat right top fixed;
+  }
+h1 {
+    font-size: 70px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 80px;
+    padding: 90px;
+    
+}
+/* paragrafos */
+#p1{
+    font-size: 33px;
+    color: white;
+    margin-top: -150px;
+    margin-left: 160px;
+    
+}
+#p2{
+    font-size: 30px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 30px;
+    
+}
+
+/* class*/
+.p-h1{
+    color: white;
+    margin: 80px;
+    
+
+}
+/*retangulo e botao*/
+.retangulo{
+    display: inline;
+    padding: 10px;
+    margin-left: 3em;
+    
+
+}
+.retangulo input{
+    
+    padding: 6px;
+    border:solid 1px #ccc ;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+    margin: 90px;
+    margin-top: -100px;
+    
+
+}
+.botao{
+    margin-left: 590px;
+    margin-top: -140px;  
+    
+
+}
+.botao input{
+color: white;
+background-color: red;
+font-size: 1.5rem;
+border: 0px;
+height: 50px;
+
+
+     
+    
+}
+
+.botao :hover{
+    text-decoration: underline;
+}
+
+.logo-netflix{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.logo-netflix img{
+    width: 200px;
+    height: auto;
+}
+
+#quadrado1 {
+  width: 846.500px;
+  height: 654.875px;
+  background: linear-gradient( #0C134F, #1D267D, #5C469C, #D4ADFC);
+  margin-left: 350px;
+  margin-top: 90px;
+  
+  
+}
+#quadrado2{
+    width: 846.500px;
+    height: 654.875px;
+     background: linear-gradient( #0C134F, #1D267D, #5C469C, #D4ADFC);
+    margin: 10px;
+    margin-left: 350px;
+   
+}
+#quadrado3{
+    width: 846.500px;
+    height: 654.875px;
+     background: linear-gradient( #0C134F, #1D267D, #5C469C, #D4ADFC);
+    margin: 10px;
+    margin-top: -1330px;
+    float:right ;
+    
+}
+#quadrado4{
+    width: 846.500px;
+    height: 654.875px;
+     background: linear-gradient( #0C134F, #1D267D, #5C469C, #D4ADFC);
+    margin: 10px;
+    margin-top: -665px;
+    float: right;
+}
+
+
+h3{
+    color: white;
+    font-family: "Arial Black", Arial, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: -90px;
+}
+#primeira-imagem{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+#segunda-imagem{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+#terceira-imagem{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+#quarta-imagem{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+
+
