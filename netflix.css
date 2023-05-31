@@ -1,0 +1,77 @@
+body {
+    background-image: url(/imagens/fundo-netflix.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100vw;
+    height:100vh;
+    padding: 0;
+    margin: 0;
+    background-color:black ;
+}
+
+#alinhamento {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  
+}
+
+#texto {
+    color: white;
+    text-align: center;
+    transform: translate(-10px, -100px);
+    font-size: 4em;
+    font-weight: bold;
+    
+}
+
+#text {
+    color: white;
+    text-align: center;
+    transform: translate(0px, -100px);
+    font-weight: 700;
+}
+
+#texto2 {
+    color: white;
+    text-align: center;
+    transform: translate(0px, -100px);
+    font-weight: 700;
+}
+    
+#logo {
+    width: 200px;
+    align-items: center;
+    position: absolute
+}
+
+#retangulo {
+    width: 300px;
+    height: 40px;
+    border: 1px solid gray;
+    transform: translate(-10px, -80px);
+    border-color: red;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#botao {
+    transform: translate(0px, -80px);
+    height: 45px;
+    width: 140px;
+    background-color: red;
+    border: none;
+    font-size:20px;
+    color: white;
+}
+
+#botao:active {
+    background-color: #444;
+}
+
+
+
+
